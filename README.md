@@ -22,7 +22,7 @@ const richard = {
   role:       "Fullstack Developer",
   location:   "Bogotá, Colombia 🇨🇴",
   company:    "U.D.C.A — Sistema de Información Institucional (SII)",
-  stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript", "Python"],
+  stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript"],
   extras:     ["Azure AD", "Power BI", "Chart.js", "Gemini AI", "JWT/RBAC"],
   education:  ["Ing. Software — Uniminuto", "Tecnólogo ADSI — SENA"],
   openTo:     true,
@@ -39,7 +39,6 @@ const richard = {
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
@@ -48,9 +47,6 @@ const richard = {
 
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 
