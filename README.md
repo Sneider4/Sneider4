@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-060609?style=for-the-badge&logo=firefox&logoColor=8b5cf6)](https://sneider4.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-malagon)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiasii3@udca.edu.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneider-malagon)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malagonrichar13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4)
 
 </div>
