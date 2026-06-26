@@ -15,7 +15,7 @@
 
 Desarrollador Fullstack de **Colombia 🇨🇴** con experiencia en diseño, desarrollo e implementación de aplicaciones web, sistemas institucionales, dashboards analíticos, APIs REST e integración con **inteligencia artificial**.
 
-Actualmente trabajo en la **U.D.C.A** como Desarrollador de Software en la evolución del **Sistema de Información Institucional (SII)**, construyendo módulos web para áreas académicas, administrativas y operativas, con autenticación **Azure AD**, dashboards en **Power BI** y visualizaciones con **Chart.js**.
+Actualmente trabajo en la **U.D.C.A** como Desarrollador de Software en la evolución del **Sistema de Información Institucional (SII)**, construyendo módulos web para áreas académicas, administrativas y operativas, con autenticación **Azure AD**, dashboards para toma de decisiones y visualizaciones con **Chart.js**.
 
 ```typescript
 const richard = {
