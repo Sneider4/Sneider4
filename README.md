@@ -66,7 +66,7 @@ const richard = {
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 **Desarrollador de Software** · U.D.C.A — Bogotá · *Enero 2025 – Actualidad*
 
@@ -76,7 +76,7 @@ const richard = {
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
 <tr>
