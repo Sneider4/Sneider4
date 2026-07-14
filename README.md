@@ -136,6 +136,23 @@ Dashboard interactivo de indicadores económicos mundiales con tarjetas KPI, gr�
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### [Migaja SaaS](https://github.com/Sneider4/migaja-saas)
+Plataforma **SaaS multi-tenant** para gestión de panaderías: inventario, punto de venta, pedidos, clientes, caja, gastos y reportes. Arquitectura de **9 microservicios NestJS** + API gateway sobre Redis (RPC) y RabbitMQ (eventos), con PostgreSQL y Row Level Security para aislamiento de datos por tenant.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Ver_Repo-161B22?style=for-the-badge&logo=github)](https://github.com/Sneider4/migaja-saas)
+
+</td>
+</tr>
 </table>
 
 ---
