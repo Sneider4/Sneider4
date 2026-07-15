@@ -83,13 +83,14 @@ const richard = {
 <td width="50%">
 
 ### [ClientPulse AI](https://clientpulse-ai-seven.vercel.app)
-Plataforma **SaaS multicliente** para gestión de soporte con IA. Dashboard analítico, autenticación JWT, control de roles RBAC, gestión multitenant y módulos configurables. Integra **Google Gemini AI** para análisis de sentimiento, predicción de churn y recomendaciones.
+Plataforma **SaaS multicliente** para gestión de soporte con IA. Dashboard analítico, autenticación JWT, control de roles RBAC, gestión multitenant y módulos configurables. Integra **Google Gemini AI** para análisis de sentimiento, predicción de churn y recomendaciones. **Proyecto en desarrollo activo** — disponible una demo funcional.
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-En_desarrollo-f59e0b?style=flat-square)
 
 [![Demo](https://img.shields.io/badge/🔗_Ver_Demo-8b5cf6?style=for-the-badge)](https://clientpulse-ai-seven.vercel.app)
 
