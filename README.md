@@ -45,7 +45,7 @@ const richard = {
   location:   "Bogotá, Colombia 🇨🇴",
   company:    "U.D.C.A — Institutional Information System (SII)",
   stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript"],
-  extras:     ["NestJS", "Azure AD", "Gemini AI", "Chart.js", "JWT/RBAC"],
+  extras:     ["NestJS", "Next.js", "Azure AD", "Gemini AI", "JWT/RBAC"],
   education:  ["Software Eng. — Uniminuto", "ADSI Technologist — SENA"],
   openTo:     true,
 };
@@ -96,7 +96,7 @@ Google Gemini brought into business flows: text classification, sentiment analys
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=angular,ts,js,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
@@ -202,36 +202,19 @@ FIFA World Cup 2026 dashboard with live results, real-time KPIs, top scorers, gr
 </td>
 <td width="50%" valign="top">
 
-### Task Manager API
+### Ronda
 
-![Type](https://img.shields.io/badge/●_REST_API-98A1B3?style=flat-square)
+![Status](https://img.shields.io/badge/●_Demo-98A1B3?style=flat-square)
 
-REST API for project and task management with JWT authentication, password hashing, full CRUD, owner and collaborator access control, and centralized error handling.
+Management system for traditional Colombian bars: tables, orders, inventory with low-stock alerts, sales, cash reconciliation and monthly balance. Role-based access and **charts drawn in raw SVG**, with no external chart library.
 
-![Node.js](https://img.shields.io/badge/Node.js-171B26?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-171B26?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171B26?style=flat-square&logo=postgresql&logoColor=4169E1)
-![JWT](https://img.shields.io/badge/JWT-171B26?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-[![Code](https://img.shields.io/badge/Repository-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/task-manager-api)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Global Economic Dashboard
-
-![Type](https://img.shields.io/badge/●_Analytics-98A1B3?style=flat-square)
-
-Interactive dashboard of world economic indicators with KPI cards and dynamic charts comparing countries. Consumes public World Bank APIs and exchange rates — no API key required.
-
-![Angular](https://img.shields.io/badge/Angular_21-171B26?style=flat-square&logo=angular&logoColor=DD0031)
-![Chart.js](https://img.shields.io/badge/Chart.js-171B26?style=flat-square&logo=chartdotjs&logoColor=FF6384)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-171B26?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Next.js](https://img.shields.io/badge/Next.js_15-171B26?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-171B26?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-171B26?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-171B26?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-[![Code](https://img.shields.io/badge/Repository-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/economic-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://ronda-lilac.vercel.app)
+[![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/ronda)
 
 </td>
 </tr>
