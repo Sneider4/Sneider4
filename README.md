@@ -47,7 +47,7 @@ const richard = {
   location:   "Bogotá, Colombia 🇨🇴",
   company:    "U.D.C.A — Institutional Information System (SII)",
   stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript"],
-  extras:     ["Next.js", "React", "Azure AD", "Gemini AI", "Chart.js", "JWT/RBAC"],
+  extras:     ["NestJS", "Next.js", "React", "Azure AD", "Gemini AI", "JWT/RBAC"],
   building:   "Susténtalo — Learn. Assess. Defend it.",
   education:  ["Software Eng. — Uniminuto", "ADSI Technologist — SENA"],
   openTo:     true,
