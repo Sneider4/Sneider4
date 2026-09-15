@@ -47,7 +47,7 @@ const richard = {
   location:   "Bogotá, Colombia 🇨🇴",
   company:    "U.D.C.A — Institutional Information System (SII)",
   stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript"],
-  extras:     ["NestJS", "Next.js", "React", "Azure AD", "Gemini AI", "JWT/RBAC"],
+  extras:     ["Next.js", "React", "Azure AD", "Gemini AI", "JWT/RBAC", "Power BI"],
   building:   "Susténtalo — Learn. Assess. Defend it.",
   education:  ["Software Eng. — Uniminuto", "ADSI Technologist — SENA"],
   openTo:     true,
@@ -103,7 +103,7 @@ Google Gemini brought into business flows: text classification, sentiment analys
 
 **Backend & Databases**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & Cloud**
 
@@ -115,7 +115,6 @@ Google Gemini brought into business flows: text classification, sentiment analys
 ![JWT](https://img.shields.io/badge/JWT_/_RBAC-171B26?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-171B26?style=flat-square&logo=chartdotjs&logoColor=FF6384)
 ![Power BI](https://img.shields.io/badge/Power_BI-171B26?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Neon](https://img.shields.io/badge/Neon_Postgres-171B26?style=flat-square&logo=postgresql&logoColor=00E599)
 ![Scrum](https://img.shields.io/badge/Scrum-171B26?style=flat-square&logo=scrumalliance&logoColor=6DB33F)
 
 <br>
