@@ -26,6 +26,8 @@ Fullstack Developer from **Colombia 🇨🇴** who builds modern, scalable web a
 
 Currently working at **U.D.C.A** as a Software Developer on the evolution of the **Institutional Information System (SII)**, building web modules for academic, administrative and operational areas.
 
+On the side, I'm building **[Susténtalo](https://sustentalo-landing.vercel.app)** — a free, Spanish-language software development curriculum where every topic is passed with an assessment, not by watching videos. I'm studying it myself and sharing my grades in public.
+
 ![Status](https://img.shields.io/badge/●_Open_to_work-0D6EFD?style=flat-square)
 ![Location](https://img.shields.io/badge/Bogotá,_Colombia-171B26?style=flat-square)
 
@@ -45,7 +47,8 @@ const richard = {
   location:   "Bogotá, Colombia 🇨🇴",
   company:    "U.D.C.A — Institutional Information System (SII)",
   stack:      ["Angular", "Node.js", "PostgreSQL", "TypeScript"],
-  extras:     ["NestJS", "Azure AD", "Gemini AI", "Chart.js", "JWT/RBAC"],
+  extras:     ["Next.js", "React", "Azure AD", "Gemini AI", "Chart.js", "JWT/RBAC"],
+  building:   "Susténtalo — Learn. Assess. Defend it.",
   education:  ["Software Eng. — Uniminuto", "ADSI Technologist — SENA"],
   openTo:     true,
 };
@@ -96,11 +99,11 @@ Google Gemini brought into business flows: text classification, sentiment analys
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=angular,ts,js,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,docker&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & Cloud**
 
@@ -112,8 +115,7 @@ Google Gemini brought into business flows: text classification, sentiment analys
 ![JWT](https://img.shields.io/badge/JWT_/_RBAC-171B26?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-171B26?style=flat-square&logo=chartdotjs&logoColor=FF6384)
 ![Power BI](https://img.shields.io/badge/Power_BI-171B26?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Redis](https://img.shields.io/badge/Redis-171B26?style=flat-square&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-171B26?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![Neon](https://img.shields.io/badge/Neon_Postgres-171B26?style=flat-square&logo=postgresql&logoColor=00E599)
 ![Scrum](https://img.shields.io/badge/Scrum-171B26?style=flat-square&logo=scrumalliance&logoColor=6DB33F)
 
 <br>
@@ -150,6 +152,21 @@ Development and evolution of the **Institutional Information System (SII)**. I b
 <tr>
 <td width="50%" valign="top">
 
+### Susténtalo
+
+![Status](https://img.shields.io/badge/●_Live_·_Founder-3B87FF?style=flat-square)
+
+Free software development curriculum in Spanish where every topic is passed with an **assessment** and every module closes with an **oral defense**. The live landing runs a free JavaScript diagnostic — 10 questions, a 0–5 grade and explained answers — plus a waitlist to validate the idea before building the beta.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-171B26?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Vercel](https://img.shields.io/badge/Vercel_Functions-171B26?style=flat-square&logo=vercel&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Postgres-171B26?style=flat-square&logo=postgresql&logoColor=00E599)
+
+[![Live site](https://img.shields.io/badge/Take_the_diagnostic-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://sustentalo-landing.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
 ### ClientPulse AI
 
 ![Status](https://img.shields.io/badge/●_In_development-3B87FF?style=flat-square)
@@ -163,22 +180,6 @@ Multi-tenant **SaaS** for customer support analysis. Google Gemini reads every t
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://clientpulse-ai-seven.vercel.app)
 [![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/clientpulse-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### Migaja SaaS
-
-![Type](https://img.shields.io/badge/●_Microservices-98A1B3?style=flat-square)
-
-Multi-tenant platform for bakery management: inventory, point of sale, orders, customers, cash register and reports. **Nine NestJS microservices** behind an API gateway over Redis and RabbitMQ, with per-tenant isolation enforced at the database level.
-
-![NestJS](https://img.shields.io/badge/NestJS-171B26?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Angular](https://img.shields.io/badge/Angular_21-171B26?style=flat-square&logo=angular&logoColor=DD0031)
-![Redis](https://img.shields.io/badge/Redis-171B26?style=flat-square&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-171B26?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-
-[![Code](https://img.shields.io/badge/Repository-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/migaja-saas)
 
 </td>
 </tr>
@@ -202,36 +203,19 @@ FIFA World Cup 2026 dashboard with live results, real-time KPIs, top scorers, gr
 </td>
 <td width="50%" valign="top">
 
-### Task Manager API
+### Ronda
 
-![Type](https://img.shields.io/badge/●_REST_API-98A1B3?style=flat-square)
+![Type](https://img.shields.io/badge/●_Commercial_demo-98A1B3?style=flat-square)
 
-REST API for project and task management with JWT authentication, password hashing, full CRUD, owner and collaborator access control, and centralized error handling.
+Management system for traditional Colombian bars: tables, orders, inventory with low-stock alerts, sales, expenses, cash closing and monthly balance. Role-based access and custom SVG charts built without a chart library.
 
-![Node.js](https://img.shields.io/badge/Node.js-171B26?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-171B26?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171B26?style=flat-square&logo=postgresql&logoColor=4169E1)
-![JWT](https://img.shields.io/badge/JWT-171B26?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-[![Code](https://img.shields.io/badge/Repository-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/task-manager-api)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Global Economic Dashboard
-
-![Type](https://img.shields.io/badge/●_Analytics-98A1B3?style=flat-square)
-
-Interactive dashboard of world economic indicators with KPI cards and dynamic charts comparing countries. Consumes public World Bank APIs and exchange rates — no API key required.
-
-![Angular](https://img.shields.io/badge/Angular_21-171B26?style=flat-square&logo=angular&logoColor=DD0031)
-![Chart.js](https://img.shields.io/badge/Chart.js-171B26?style=flat-square&logo=chartdotjs&logoColor=FF6384)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-171B26?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Next.js](https://img.shields.io/badge/Next.js_15-171B26?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-171B26?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-171B26?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-171B26?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-[![Code](https://img.shields.io/badge/Repository-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/economic-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://ronda-lilac.vercel.app)
+[![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/ronda)
 
 </td>
 </tr>
