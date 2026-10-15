@@ -103,7 +103,7 @@ Google Gemini brought into business flows: text classification, sentiment analys
 
 **Backend & Databases**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & Cloud**
 
@@ -185,6 +185,23 @@ Multi-tenant **SaaS** for customer support analysis. Google Gemini reads every t
 <tr>
 <td width="50%" valign="top">
 
+### La Casa
+
+![Status](https://img.shields.io/badge/●_Live-3B87FF?style=flat-square)
+
+Real-time party game: anyone opens a bet from their phone, everyone sees it instantly, picks a side against the clock and whoever loses pays the forfeit. **Supabase Realtime** with anonymous sessions and row-level security, so a player only ever reaches the rooms they belong to. No sign-up, no install.
+
+![Angular](https://img.shields.io/badge/Angular_21-171B26?style=flat-square&logo=angular&logoColor=DD0031)
+![Supabase](https://img.shields.io/badge/Supabase-171B26?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_RLS-171B26?style=flat-square&logo=postgresql&logoColor=4169E1)
+![TypeScript](https://img.shields.io/badge/Signals-171B26?style=flat-square&logo=typescript&logoColor=3178C6)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://la-casa.vercel.app)
+[![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/la-casa)
+
+</td>
+<td width="50%" valign="top">
+
 ### Mundial 2026
 
 ![Type](https://img.shields.io/badge/●_Live_data-98A1B3?style=flat-square)
@@ -200,7 +217,9 @@ FIFA World Cup 2026 dashboard with live results, real-time KPIs, top scorers, gr
 [![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/mundial-2026)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Ronda
 
