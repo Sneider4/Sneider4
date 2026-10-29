@@ -185,6 +185,25 @@ Multi-tenant **SaaS** for customer support analysis. Google Gemini reads every t
 <tr>
 <td width="50%" valign="top">
 
+### Cronograma
+
+![Status](https://img.shields.io/badge/●_Live-3B87FF?style=flat-square)
+
+Collaborative project planning in real time. The same activities read as a **Gantt chart, a calendar, a Kanban board or a list**, all editable by dragging. Teams join with a 6-character invite code under four permission roles, and the whole schedule travels to and from **Excel** — validated template, row-by-row preview and an atomic import, so a bad file changes nothing.
+
+![Angular](https://img.shields.io/badge/Angular_21_zoneless-171B26?style=flat-square&logo=angular&logoColor=DD0031)
+![Supabase](https://img.shields.io/badge/Supabase_Auth-171B26?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_RLS-171B26?style=flat-square&logo=postgresql&logoColor=4169E1)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-171B26?style=flat-square&logo=microsoftexcel&logoColor=1D6F42)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://cronograma-xi.vercel.app)
+[![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/cronograma)
+
+`demo@cronograma.app` · `demo1234`
+
+</td>
+<td width="50%" valign="top">
+
 ### La Casa
 
 ![Status](https://img.shields.io/badge/●_Live-3B87FF?style=flat-square)
@@ -200,6 +219,8 @@ Real-time party game: anyone opens a bet from their phone, everyone sees it inst
 [![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/la-casa)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Mundial 2026
@@ -217,9 +238,7 @@ FIFA World Cup 2026 dashboard with live results, real-time KPIs, top scorers, gr
 [![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/mundial-2026)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Ronda
 
