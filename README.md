@@ -216,7 +216,6 @@ Real-time party game: anyone opens a bet from their phone, everyone sees it inst
 ![TypeScript](https://img.shields.io/badge/Signals-171B26?style=flat-square&logo=typescript&logoColor=3178C6)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://la-casa.vercel.app)
-[![Code](https://img.shields.io/badge/Code-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneider4/la-casa)
 
 </td>
 </tr>
