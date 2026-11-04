@@ -103,7 +103,7 @@ Google Gemini brought into business flows: text classification, sentiment analys
 
 **Backend & Databases**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & Cloud**
 
@@ -215,7 +215,7 @@ Real-time party game: anyone opens a bet from their phone, everyone sees it inst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_RLS-171B26?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![TypeScript](https://img.shields.io/badge/Signals-171B26?style=flat-square&logo=typescript&logoColor=3178C6)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://la-casa.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://la-casa-jet.vercel.app/)
 
 </td>
 </tr>
